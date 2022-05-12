@@ -14,7 +14,7 @@ echo -e "\033[1;92m___\033[1;97m##\033[1;92m____\033[1;97m##\033[1;92m__\033[1;9
 sleep 0.1
 echo -e "\033[1;92m___\033[1;97m##\033[1;92m____\033[1;97m##\033[1;92m__\033[1;97m##\033[1;92m__\033[1;97m##\033[1;92m__\033[1;97m##\033[1;92m___\033[1;97m####\033[1;92m___\033[1;97m######\033[1;92m__\033[1;97m##\033[1;92m__\033[1;97m##\033[1;92m_"
 sleep 0.1
-echo -e "\033[1;92m_____________\033[1;97mCreated by: Zihad hossain rafi\033[1;92m_____________"
+echo -e "\033[1;92m_____________\033[1;97mCreated by: ZiHAD HOSSAIN RAFI\033[1;92m_____________"
 sleep 0.1
 echo
 }
@@ -27,11 +27,11 @@ apt-get upgrade -y
 apt-get install python -y
 pip install requests
 echo -e "\033[1;92m[\033[1;97m*\033[1;92m] Setting up environment:"
-mkdir $HOME/.rafi
+mkdir $HOME/.alex
 mv .traced /bin/tracex
 chmod +x /bin/tracex
 cd ..
-mv TraceX $HOME/.rafi
+mv TraceX $HOME/.alex
 sleep 3.0
 
 clear
@@ -42,5 +42,4 @@ $ tracex <Target IP>
 $ tracex 127.0.0.1
 $ tracex example.com
 "
-
 
