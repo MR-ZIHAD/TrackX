@@ -27,7 +27,7 @@ apt-get upgrade -y
 apt-get install python -y
 pip install requests
 echo -e "\033[1;92m[\033[1;97m*\033[1;92m] Setting up environment:"
-mkdir $HOME/.alex
+mkdir $HOME/.rafi
 mv .traced /data/data/com.termux/files/usr/bin/tracex
 chmod +x /data/data/com.termux/files/usr/bin/tracex
 cd ..
