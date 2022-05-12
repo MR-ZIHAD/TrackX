@@ -1,4 +1,4 @@
-# created by Zihad Hossain Rafi
+# created by Zihad hossain rafi
 
 import os
 import sys
@@ -22,7 +22,7 @@ def banner():
     sleep(0.1)
     print(re + '___' + r + '##' + re + '____' + r + '##' + re + '__' + r + '##' + re + '__' + r + '##' + re + '__' + r + '##' + re + '___' + r + '####' + re + '___' + r + '######' + re + '__' + r + '##' + re + '__' + r + '##' + re + '_')
     sleep(0.1)
-    print(re + '_____________'+r+'Created by: Zihad Hossain Rafi'+re+'_____________')
+    print(re + '_____________'+r+'Created by: Zihad hossain rafi'+re+'_____________')
     sleep(0.1)
 
 if(len(sys.argv) != 2):
