@@ -1,1 +1,1 @@
-python $HOME/.rafi/TraceX/.tracex $1
+python $HOME/.alex/TraceX/.tracex $1
